@@ -1,5 +1,5 @@
 # Parameter-Estimation-in-an-optical-fibre-system-using-deep-learning
-### Here's the overall summary of the project. You can read more in the ![report](Parameter-Estimation-in-an-optical-fibre-system-using-deep-learning/Design Lab Report (1801EE62).pdf). Also, constellation plots generated from the dataset are available at [constellation plots](../constellation plots)
+### Here's the overall summary of the project. You can read more in the [report](https://github.com/StaticJunkk/Parameter-Estimation-in-an-optical-fibre-system-using-deep-learning/blob/main/Design%20Lab%20Report%20(1801EE62).pdf). Also, constellation plots generated from the dataset are available at [constellation plots](https://github.com/StaticJunkk/Parameter-Estimation-in-an-optical-fibre-system-using-deep-learning/tree/main/constellation%20plots)
 ![Design Lab](https://user-images.githubusercontent.com/49332481/124426179-50272c00-dd87-11eb-84be-a1bea8bae955.jpg)
 ![Design Lab (1)](https://user-images.githubusercontent.com/49332481/124426215-5d441b00-dd87-11eb-9e12-efce2b0091f3.jpg)
 ![Design Lab (2)](https://user-images.githubusercontent.com/49332481/124426223-603f0b80-dd87-11eb-9749-94234ed2f46f.jpg)
