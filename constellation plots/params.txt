@@ -1,0 +1,5 @@
+OSNR - 10 to 35
+Pulse Peak Power - 0, 2, 5, 8 dBm
+FM - 10, 20, 40 GBPS
+Modulation Formats - OOK, BPSK, QPSK
+No. of bits per signal - 1000
