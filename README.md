@@ -7,10 +7,9 @@
 ![Design Lab (5)](https://user-images.githubusercontent.com/49332481/124426261-6fbe5480-dd87-11eb-8e54-259c90589ed1.jpg)
 ![Design Lab (6)](https://user-images.githubusercontent.com/49332481/124426280-74830880-dd87-11eb-9190-b1e59af0dd66.jpg)
 ![Design Lab (7)](https://user-images.githubusercontent.com/49332481/124426295-78af2600-dd87-11eb-82e4-ef282b4b1fe3.jpg)
-
+![Design Lab (8)](https://user-images.githubusercontent.com/49332481/124426313-7ea50700-dd87-11eb-97a7-48f114c24201.jpg)
 ### While the classification model showed great accuracy with just the received bits, the regression model for estimation of length wobbled far away from the real values. Thus, a new model was proposed which took Fm, Pulse Peak Power and OSNR values as input along with the received bits for the estimation of length.
 
-![Design Lab (8)](https://user-images.githubusercontent.com/49332481/124426313-7ea50700-dd87-11eb-97a7-48f114c24201.jpg)
 ![Design Lab (9)](https://user-images.githubusercontent.com/49332481/124426349-89f83280-dd87-11eb-91f9-bedbd756716b.jpg)
 ![Design Lab (10)](https://user-images.githubusercontent.com/49332481/124426360-8e245000-dd87-11eb-81a4-30193313503b.jpg)
 ![Design Lab (11)](https://user-images.githubusercontent.com/49332481/124426426-a6946a80-dd87-11eb-9f0f-a47b0989f25d.jpg)
